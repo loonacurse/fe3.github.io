@@ -1,0 +1,39 @@
+body {
+    background: #f3f2f3;
+    color: #000000;
+    font-family: Arial;
+    font-size: 24px;
+    text-align: center;
+
+}
+#container {
+    margin: 30px auto;
+    width: 900px;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    }
+    #image_1{
+        background-color: greenyellow;
+        height: 15%;
+        width: 100%;
+    }
+    #text_1{
+        background: rgb(120, 120, 240);
+        height: 70%;
+        width: 33%;
+    }
+    #image_2{
+        background-color: rgb(159, 201, 236);
+        height: 70%;
+        width: 67%;
+    }
+    #text_2{
+        background-color: rgb(247, 230, 139);
+        height: 15%;
+        width: 100%;
+    }
+    
+    
